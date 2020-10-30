@@ -6,7 +6,7 @@ TO DO
 
 ## Cite this dataset
 
-Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, _Exhibition catalogues (ALTO and JPG)_, 2020, https://github.com/carolinecorbieres/ExhibCat_Dataset.
+Caroline Corbières, Simon Gabay and Béatrice Joyeux-Prunel, _Exhibition catalogues (ALTO and JPEG)_, 2020, https://github.com/carolinecorbieres/ExhibCat_Dataset.
 
 ## Licence
 
