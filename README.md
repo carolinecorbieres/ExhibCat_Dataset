@@ -1,8 +1,8 @@
-# ExhibCat_Dataset
+# Exhibition catalogues dataset
 
 ## Description
 
-TO DO
+Exhibition catalogues from the Visual contagion project in ALTO and JPEG.
 
 ## Cite this dataset
 
