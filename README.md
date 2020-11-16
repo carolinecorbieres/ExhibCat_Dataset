@@ -1,8 +1,8 @@
-# ExhibCat_Dataset
+# Exhibition catalogues dataset
 
 ## Description
 
-TO DO
+Exhibition catalogues from the [Visual contagion project](https://gitlab.unige.ch/Beatrice.Joyeux-Prunel/visual-contagions) in ALTO and JPEG. The ALTO files are transformed with Ljudmila Petkovic's python scripts that you can find [here](https://github.com/ljpetkovic/OCR-cat/tree/master). 
 
 ## Cite this dataset
 
